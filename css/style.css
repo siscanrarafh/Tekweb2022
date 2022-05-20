@@ -1,0 +1,53 @@
+.navbar {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 50px;
+  background-color: #0aa1dd;
+}
+.navbar-brand {
+  font-style: normal;
+  font-family: "Brush Script MT";
+  font-size: 60px;
+}
+
+.display-4 {
+  font-style: normal;
+  font-family: Impact;
+  color: white;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #79dae8;
+}
+
+.keterangan {
+  font-size: 30px;
+}
+#artikel {
+  background-color: #79dae8;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.fa-instagram {
+  color: white;
+  font-size: 25px;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  text-decoration: none;
+}
+.fa-github {
+  color: white;
+  font-size: 25px;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  text-decoration: none;
+}
+
+.portofolio-img {
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "url": "./img/Tugu_Yogyakarta.jpg",
+    "judul": "Yogyakarta",
+    "author": "Sisca Nur Arafah Febriyanti",
+    "desc": "Kota Yogyakarta atau yang sering disebut kota jogja. Merupakan kota yang sangat Istimewa. ",
+    "artikel": "artikel1.md"
+  },
+  {
+    "url": "./img/3.jpg",
+    "judul": "Rasi Bintang",
+    "author": "Sisca Nur Arafah Febriyanti",
+    "desc": "Rasi bintang adalah sekelompok bintang yang tampak berhubungan membentuk suatu konfigurasi khusus.",
+    "artikel": "artikel2.md"
+  },
+  {
+    "url": "./img/bulan.jpg",
+    "judul": "Bulan",
+    "author": "Sisca Nur Arafah Febriyanti",
+    "desc": "Bulan adalah satelit alami Bumi satu-satunya dan merupakan satelit terbesar kelima dalam Tata Surya. ",
+    "artikel": "artikel3.md"
+  },
+  {
+    "url": "./img/laut.jpg",
+    "judul": "Laut",
+    "author": "Sisca Nur Arafah Febriyanti",
+    "desc": "laut adalah sistem perairan samudra berair asin yang saling terhubung di Bumi yang dianggap sebagai satu samudra global atau sebagai beberapa samudra utama.  ",
+    "artikel": "artikel4.md"
+  },
+  {
+    "url": "./img/borobudur.jpg",
+    "judul": "Borobudur",
+    "author": "Sisca Nur Arafah Febriyanti",
+    "desc": " Candi Borobudur (bahasa Jawa: ꦕꦤ꧀ꦝꦶ​ꦧꦫꦧꦸꦝꦸꦂ, translit. Candhi Båråbudhur) adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. ",
+    "artikel": "artikel5.md"
+  }
+]
